@@ -76,7 +76,7 @@ class ReaderUI {
         notesList.appendChild(rowDiv);
 
         const timestamp = new Date().toLocaleTimeString();
-        document.getElementById("timestamp").textContent = `${TIMESTAMP_SAVED} ${timestamp}`;
+        document.getElementById("timestamp").textContent = `${TIMESTAMP_UPDATED} ${timestamp}`;
     }
 }
 

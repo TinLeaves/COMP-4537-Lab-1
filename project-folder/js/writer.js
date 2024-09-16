@@ -54,7 +54,7 @@ class WriterNote {
     saveNotes() {
         localStorage.setItem("notes", JSON.stringify(this.notes));
         const timestamp = new Date().toLocaleTimeString();
-        document.getElementById("timestamp").textContent = `${TIMESTAMP_UPDATED} ${timestamp}`;
+        document.getElementById("timestamp").textContent = `${TIMESTAMP_SAVED} ${timestamp}`;
     }
 
     /**
