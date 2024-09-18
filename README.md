@@ -16,7 +16,7 @@ A simple note-taking application that allows users to add, edit, remove, and aut
 
 You can access the application directly by visiting the following link:
 
-[NoteWriter Application](https://comp-4537-lab-1-eta.vercel.app/))]
+[NoteWriter Application](https://comp-4537-lab-1-eta.vercel.app/)
 
 1. Click the "Add Note" button to create new notes.
 2. Type in the text areas to update your notes in real-time.
