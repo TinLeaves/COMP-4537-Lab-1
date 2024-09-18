@@ -1,4 +1,4 @@
-"# COMP-4537-Lab-1" 
+# COMP-4537-Lab-1 
 # NoteWriter Application
 
 A simple note-taking application that allows users to add, edit, remove, and automatically save notes using the browser's localStorage.
